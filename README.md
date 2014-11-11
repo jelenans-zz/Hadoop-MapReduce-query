@@ -11,7 +11,7 @@ Query is given in the following format:
 
 ***********************************************
 
-hadoop jar queryauthor.jar org.hwone.QueryAuthor <input> <output> <author>
+hadoop jar queryauthor.jar org.hwone.QueryAuthor "input" "output" "author"
 
 ************************************************
 
